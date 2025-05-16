@@ -48,3 +48,7 @@ So, understanding how to read, write, and manage files is a big step towards bec
 
 🎓 What We Learned
 This task helped us understand how C handles file input/output, which is essential for creating applications that deal with large amounts of data. It also made us more comfortable working with tools like OnlineGDB, which are really useful for testing code quickly and efficiently. Overall, it was a great hands-on experience that improved both our coding and problem-solving skills.
+
+#OUTPUT
+
+https://github.com/user-attachments/assets/ed88877f-8fd0-4206-99e0-3cb0d8dd7d18
